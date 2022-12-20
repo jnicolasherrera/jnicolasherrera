@@ -16,3 +16,5 @@ En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utili
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnicolasherrera)](https://github.com/jnicolasherrera/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnicolasherrera&show_icons=true&theme=radical)
+
