@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Nico Herrera 
-- 👀 I’m interested in data scientist & data analytics
-- 🌱 I’m currently learning English, Data analytics, Analista en computacion 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me https://www.linkedin.com/in/juan-nicolas-herrera-r4/
+Hola! Soy Nico 
 
-<!---
-jnicolasherrera/jnicolasherrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔎 Te cuento un poco sobre mi: Soy Data Analyst y estoy en formación realizando el Curso en Data Scientist. 
+
+🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy)
+
+Herramientas de BI: Power BI
+
+Lenguaje de consulta: SQL
+
+📫 Podes encontrarme y conectar en Linkedin: https://www.linkedin.com/in/juan-nicolas-herrera-r4 
+
+En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utilizar como ejemplo o para prácticar.
+
+👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
