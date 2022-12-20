@@ -7,6 +7,7 @@ Hola! Soy Nico
 Herramientas de BI: Power BI
 
 Lenguaje de consulta: SQL
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnicolasherrera)](https://github.com/jnicolasherrera/github-readme-stats)
 
 📫 Podes encontrarme y conectar en Linkedin: https://www.linkedin.com/in/juan-nicolas-herrera-r4 
 
