@@ -8,7 +8,7 @@ Herramientas de BI: Power BI
 
 Lenguaje de consulta: SQL
 
-📫 Podes encontrarme y conectar en Linkedin: [https://www.linkedin.com/in/juan-nicolas-herrera-r4 ](https://www.linkedin.com/in/jnicolasherrera/)
+📫 Podes encontrarme y conectar en Linkedin: [https://www.linkedin.com/in/jnicolasherrera/]
 
 En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utilizar como ejemplo o para prácticar.
 
