@@ -1,18 +1,28 @@
-Hola! Soy Nico 
+# Juan Nicolás Herrera
 
-🔎 Te cuento un poco sobre mi: Soy Data Analyst y estoy en formación realizando el Curso en Data Scientist. 
+Backend engineer & data analyst focused on building AI-powered products and data pipelines.
 
-🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy)
+Currently working on **FlexPQR** — a legal case management platform for Colombian law firms, with AI-driven classification, automated drafting, and multi-tenant architecture.
 
-Herramientas de BI: Power BI
+---
 
-Lenguaje de consulta: SQL
+## Stack
 
-📫 Podes encontrarme y conectar en Linkedin: [https://www.linkedin.com/in/jnicolasherrera/]
+**Backend** — Python · FastAPI · asyncpg · PostgreSQL · Redis · Kafka  
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS  
+**AI / ML** — Anthropic Claude API · RAG · few-shot classification · LLM pipelines  
+**Data** — Pandas · NumPy · Matplotlib · Seaborn · Power BI · SQL  
+**Infra** — Docker · AWS · GitHub Actions CI/CD
 
-En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utilizar como ejemplo o para prácticar.
+---
 
-👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
+## Featured
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnicolasherrera&show_icons=true&theme=radical)
+- [flexpqr-platform](https://github.com/jnicolasherrera/flexpqr-platform) — AI-powered PQRS platform (FastAPI + Next.js + Claude)
+- [FlexLegal_Notificaciones](https://github.com/jnicolasherrera/FlexLegal_Notificaciones) — Legal notification automation
 
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jnicolasherrera&show_icons=true&theme=radical&hide_border=true)](https://github.com/jnicolasherrera)
+
+[LinkedIn](https://www.linkedin.com/in/jnicolasherrera/)
